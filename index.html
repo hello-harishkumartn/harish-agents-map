@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#070918">
+  <meta name="description" content="Harish Agents Map — a live 3D colony of Harish's AI agents, their routines and activity.">
+  <title>Harish Agents Map</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="./css/style.css">
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+    }
+  }
+  </script>
+</head>
+<body>
+  <div id="scene" aria-label="3D map of agents. Drag to orbit, scroll or pinch to zoom, tap a robot for details."></div>
+
+  <header class="topbar glass">
+    <div class="brand">
+      <span class="logo" aria-hidden="true"></span>
+      <h1>Harish Agents Map</h1>
+    </div>
+    <div id="counts" class="counts" aria-live="polite"></div>
+    <div class="meta">
+      <span id="updated">Loading…</span>
+      <span id="stale" class="badge" hidden>Stale</span>
+    </div>
+    <div class="actions">
+      <button id="homeBtn" class="icon-btn" type="button" title="Reset view" aria-label="Reset view">⌂</button>
+      <button id="themeBtn" class="icon-btn theme-btn" type="button" aria-haspopup="menu" aria-expanded="false" title="Change theme">
+        <span aria-hidden="true">◐</span><span id="themeName" class="theme-name">Theme</span>
+      </button>
+      <div id="themeMenu" class="menu glass" role="menu" hidden></div>
+    </div>
+  </header>
+
+  <nav id="desks" class="desk-chips" aria-label="Desks"></nav>
+
+  <aside id="feedPanel" class="panel feed-panel glass collapsed" aria-label="Live activity">
+    <button id="feedToggle" class="panel-head" type="button" aria-expanded="false" aria-controls="feed">
+      <span class="live-dot" aria-hidden="true"></span>
+      <h2>Live activity</h2>
+      <span id="feedCount" class="pill"></span>
+      <span class="chev" aria-hidden="true"></span>
+    </button>
+    <ol id="feed" class="feed-list"></ol>
+  </aside>
+
+  <aside id="detail" class="panel detail-panel glass" role="dialog" aria-labelledby="detailTitle" hidden>
+    <button id="detailClose" class="icon-btn close" type="button" aria-label="Close details (Esc)">✕</button>
+    <div id="detailBody" class="detail-body"></div>
+  </aside>
+
+  <div id="toast" class="toast glass" role="status" aria-live="polite"></div>
+
+  <noscript><p class="noscript">This map needs JavaScript and WebGL.</p></noscript>
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>
