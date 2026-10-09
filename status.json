@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T00:30:02+05:30",
+ "generated_at": "2026-10-09T07:18:39+05:30",
  "timezone": "Asia/Calcutta (IST)",
  "desks": [
   {"id": "hub", "name": "Harish PA Hub", "color": "#7c5cff"},
@@ -15,23 +15,23 @@
    "name": "Harish PA",
    "desk": "hub",
    "role": "Harish's personal assistant hub: routines, briefs, Mudrex crypto desk, WhatsApp notices to Abbu, journal, events cards.",
-   "status": "idle",
-   "last_action": "Mudrex watch 11:38 PM slot ran (ok); overnight quiet until the 6:00 AM briefs",
-   "last_run": "2026-10-08T23:45:03+05:30",
-   "next_run": "2026-10-09T06:00:00+05:30",
+   "status": "working",
+   "last_action": "Morning investment desk dump delivered (7:08 AM); agents map status refresh running",
+   "last_run": "2026-10-09T07:08:03+05:30",
+   "next_run": "2026-10-09T07:53:00+05:30",
    "routines": [
-    {"name": "Morning AI news top 10", "schedule": "Daily 6:00 AM", "last_run": "2026-10-08T06:03:00+05:30", "last_result": "ok", "next_run": "2026-10-09T06:00:00+05:30"},
-    {"name": "Morning investment desk dump", "schedule": "Daily 6:00 AM", "last_run": "2026-10-08T06:07:00+05:30", "last_result": "ok", "next_run": "2026-10-09T06:00:00+05:30"},
-    {"name": "Market open invest decision", "schedule": "Weekdays 9:45 AM", "last_run": "2026-10-08T09:54:00+05:30", "last_result": "ok", "next_run": "2026-10-09T09:45:00+05:30"},
-    {"name": "Morning placement digest", "schedule": "Daily 7:11 AM", "last_run": "2026-10-08T07:17:00+05:30", "last_result": "ok", "next_run": "2026-10-09T07:11:00+05:30"},
-    {"name": "Morning events interest cards", "schedule": "Daily 7:18 AM", "last_run": "2026-10-08T07:27:00+05:30", "last_result": "ok", "next_run": "2026-10-09T07:18:00+05:30"},
+    {"name": "Morning AI news top 10", "schedule": "Daily 6:00 AM", "last_run": "2026-10-09T06:52:28+05:30", "last_result": "failed (brief recreated locally; Abbu voice note not sent)", "next_run": "2026-10-10T06:00:00+05:30"},
+    {"name": "Morning investment desk dump", "schedule": "Daily 6:00 AM", "last_run": "2026-10-09T07:08:03+05:30", "last_result": "ok", "next_run": "2026-10-10T06:00:00+05:30"},
+    {"name": "Market open invest decision", "schedule": "Weekdays 9:45 AM", "last_run": "2026-10-08T09:54:34+05:30", "last_result": "ok", "next_run": "2026-10-09T09:45:00+05:30"},
+    {"name": "Morning placement digest", "schedule": "Daily 7:11 AM", "last_run": "2026-10-08T07:17:58+05:30", "last_result": "ok", "next_run": "2026-10-09T07:11:00+05:30"},
+    {"name": "Morning events interest cards", "schedule": "Daily 7:18 AM", "last_run": "2026-10-08T07:27:55+05:30", "last_result": "ok", "next_run": "2026-10-09T07:18:00+05:30"},
     {"name": "Mudrex multi-strategy watch", "schedule": "Every :08 and :38, 8 AM–11:38 PM", "last_run": "2026-10-08T23:45:03+05:30", "last_result": "ok", "next_run": "2026-10-09T08:08:00+05:30"},
-    {"name": "Mudrex daily desk report", "schedule": "Daily 7:53 AM", "last_run": "2026-10-08T07:53:00+05:30", "last_result": "ok", "next_run": "2026-10-09T07:53:00+05:30"},
+    {"name": "Mudrex daily desk report", "schedule": "Daily 7:53 AM", "last_run": "2026-10-08T07:53:20+05:30", "last_result": "ok", "next_run": "2026-10-09T07:53:00+05:30"},
     {"name": "Mudrex monthly report", "schedule": "1st of month 7:49 AM", "last_run": null, "last_result": "never run", "next_run": "2026-11-01T07:49:00+05:30"},
     {"name": "Sekar supply-chain talk T-30 reminder", "schedule": "Fri 9 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "pending", "next_run": "2026-10-09T14:30:00+05:30"},
     {"name": "Sekar supply-chain talk T-10 reminder", "schedule": "Fri 9 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "pending", "next_run": "2026-10-09T14:50:00+05:30"},
     {"name": "Daily journal reminder", "schedule": "Daily 10:00 PM", "last_run": "2026-10-08T22:50:34+05:30", "last_result": "failed", "next_run": "2026-10-09T22:00:00+05:30"},
-    {"name": "Agents map status refresh", "schedule": "Hourly at :18, 6 AM–11 PM", "last_run": "2026-10-09T00:29:00+05:30", "last_result": "ok (earlier 11:05 PM run failed)", "next_run": "2026-10-09T06:18:00+05:30"},
+    {"name": "Agents map status refresh", "schedule": "Hourly at :18, 6 AM–11 PM", "last_run": "2026-10-09T07:18:00+05:30", "last_result": "ok", "next_run": "2026-10-09T08:18:00+05:30"},
     {"name": "Honda R&D test T-30 reminder", "schedule": "Sat 17 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "pending", "next_run": "2026-10-17T14:30:00+05:30"},
     {"name": "Honda R&D test T-10 reminder", "schedule": "Sat 17 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "pending", "next_run": "2026-10-17T14:50:00+05:30"}
    ]
@@ -59,6 +59,9 @@
   {"id": "lit-scout", "name": "Lit Scout", "desk": "studio", "role": "Literature/paper scouting", "status": "idle", "last_action": null, "last_run": null, "next_run": null, "routines": []}
  ],
  "feed": [
+  {"time": "2026-10-09T07:18:00+05:30", "agent": "harish-pa", "text": "Agents map status refresh (delayed 6:18 AM slot)", "kind": "info"},
+  {"time": "2026-10-09T07:08:03+05:30", "agent": "harish-pa", "text": "Morning investment desk dump delivered (Hormuz/oil spike, Nifty bounce setup; analysis only)", "kind": "report"},
+  {"time": "2026-10-09T06:52:28+05:30", "agent": "harish-pa", "text": "Morning AI news top 10 run failed (brief recreated locally; Abbu voice note not sent)", "kind": "error"},
   {"time": "2026-10-08T23:45:03+05:30", "agent": "harish-pa", "text": "Mudrex watch 11:38 PM slot ran (ok)", "kind": "info"},
   {"time": "2026-10-08T23:05:35+05:30", "agent": "harish-pa", "text": "Agents map status refresh run failed", "kind": "error"},
   {"time": "2026-10-08T22:50:34+05:30", "agent": "harish-pa", "text": "Daily journal reminder (10 PM) run failed", "kind": "error"},
