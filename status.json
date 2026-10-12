@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T20:43:09+05:30",
+ "generated_at": "2026-10-12T21:45:25+05:30",
  "timezone": "Asia/Calcutta (IST)",
  "desks": [
   {"id": "hub", "name": "Harish PA Hub", "color": "#7c5cff"},
@@ -16,22 +16,22 @@
    "desk": "hub",
    "role": "Harish's personal assistant hub: routines, briefs, Mudrex crypto desk, WhatsApp notices to Abbu, journal, events cards.",
    "status": "working",
-   "last_action": "Mudrex watch 8:08 PM (ran 8:09) — book flat 33.02 USDT, no positions/orders, no trade; agents map refreshing",
-   "last_run": "2026-10-12T20:43:08+05:30",
-   "next_run": "2026-10-12T21:08:00+05:30",
+   "last_action": "Mudrex watch 9:38 PM (ran 9:37) — book flat 33.02 USDT, no positions; S1/S2/S3 all WAIT after 8 PM alt flush, no trade",
+   "last_run": "2026-10-12T21:44:36+05:30",
+   "next_run": "2026-10-12T22:00:00+05:30",
    "routines": [
     {"name": "Morning AI news top 10", "schedule": "Daily 6:00 AM", "last_run": "2026-10-12T06:08:37+05:30", "last_result": "succeeded", "next_run": "2026-10-13T06:00:00+05:30"},
     {"name": "Morning investment desk dump", "schedule": "Daily 6:00 AM", "last_run": "2026-10-12T06:08:33+05:30", "last_result": "succeeded", "next_run": "2026-10-13T06:00:00+05:30"},
     {"name": "Market open invest decision", "schedule": "Weekdays 9:45 AM", "last_run": "2026-10-12T09:46:32+05:30", "last_result": "succeeded", "next_run": "2026-10-13T09:45:00+05:30"},
     {"name": "Morning placement digest", "schedule": "Daily 7:11 AM", "last_run": "2026-10-12T07:18:29+05:30", "last_result": "succeeded", "next_run": "2026-10-13T07:11:00+05:30"},
     {"name": "Morning events interest cards", "schedule": "Daily 7:18 AM", "last_run": "2026-10-12T07:18:51+05:30", "last_result": "succeeded", "next_run": "2026-10-13T07:18:00+05:30"},
-    {"name": "Mudrex multi-strategy watch", "schedule": "Every :08 and :38, 8 AM–11:38 PM", "last_run": "2026-10-12T20:09:37+05:30", "last_result": "succeeded", "next_run": "2026-10-12T21:08:00+05:30"},
+    {"name": "Mudrex multi-strategy watch", "schedule": "Every :08 and :38, 8 AM–11:38 PM", "last_run": "2026-10-12T21:37:29+05:30", "last_result": "succeeded", "next_run": "2026-10-12T22:08:00+05:30"},
     {"name": "Mudrex daily desk report", "schedule": "Daily 7:53 AM", "last_run": "2026-10-12T07:59:09+05:30", "last_result": "succeeded", "next_run": "2026-10-13T07:53:00+05:30"},
     {"name": "Mudrex monthly report", "schedule": "1st of month 7:49 AM", "last_run": null, "last_result": "never run", "next_run": "2026-11-01T07:49:00+05:30"},
     {"name": "Sekar supply-chain talk T-30 reminder", "schedule": "Fri 9 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Sekar supply-chain talk T-10 reminder", "schedule": "Fri 9 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Daily journal reminder", "schedule": "Daily 10:00 PM", "last_run": "2026-10-11T22:09:05+05:30", "last_result": "succeeded", "next_run": "2026-10-12T22:00:00+05:30"},
-    {"name": "Agents map status refresh", "schedule": "Hourly 6:18 AM–11:18 PM", "last_run": "2026-10-12T20:43:08+05:30", "last_result": "running", "next_run": "2026-10-12T21:18:00+05:30"},
+    {"name": "Agents map status refresh", "schedule": "Hourly 6:18 AM–11:18 PM", "last_run": "2026-10-12T21:44:36+05:30", "last_result": "running", "next_run": "2026-10-12T22:18:00+05:30"},
     {"name": "Honda R&D test T-30 reminder", "schedule": "Sat 17 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "pending", "next_run": "2026-10-17T14:30:00+05:30"},
     {"name": "Honda R&D test T-10 reminder", "schedule": "Sat 17 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "pending", "next_run": "2026-10-17T14:50:00+05:30"},
     {"name": "UCL PhD opportunity watch", "schedule": "Daily 8:04 AM", "last_run": "2026-10-12T08:09:54+05:30", "last_result": "succeeded", "next_run": "2026-10-13T08:04:00+05:30"},
@@ -76,6 +76,8 @@
   {"id": "lit-scout", "name": "Lit Scout", "desk": "studio", "role": "Literature/paper scouting", "status": "idle", "last_action": null, "last_run": null, "next_run": null, "routines": []}
  ],
  "feed": [
+  {"time": "2026-10-12T21:44:36+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (9:18 PM slot, fired ~9:44 PM)", "kind": "info"},
+  {"time": "2026-10-12T21:37:29+05:30", "agent": "harish-pa", "text": "Mudrex watch 9:38 PM — book flat 33.02 USDT, no positions/orders; S1/S2/S3 WAIT after 8 PM alt flush (waiting for bounce to reject 15m e20), no trade", "kind": "info"},
   {"time": "2026-10-12T20:43:08+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (8:18 PM slot, fired ~8:41 PM)", "kind": "info"},
   {"time": "2026-10-12T20:09:37+05:30", "agent": "harish-pa", "text": "Mudrex watch 8:08 PM (ran 8:09) — succeeded; book flat 33.02 USDT, 0 locked, no positions, no trade (no watch.md log)", "kind": "info"},
   {"time": "2026-10-12T19:47:04+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (7:18 PM slot)", "kind": "info"},
@@ -273,8 +275,6 @@
   {"time": "2026-10-08T15:08:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 3:08 PM — held S1 SOL short (+~0.21 USDT), no new trade", "kind": "info"},
   {"time": "2026-10-08T14:42:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 2:42 PM — held SOL short (+~0.26 USDT), no trade", "kind": "info"},
   {"time": "2026-10-08T14:35:00+05:30", "agent": "harish-pa", "text": "Daily journal 7 Oct saved to Drive", "kind": "journal"},
-  {"time": "2026-10-08T14:30:00+05:30", "agent": "harish-pa", "text": "Events cards answered: Interested — AI Studio (apply by 23 Oct); Not interested — PM's address, Farmers Market, Saarang Finance", "kind": "events"},
-  {"time": "2026-10-08T14:22:00+05:30", "agent": "harish-pa", "text": "Abbu WhatsApp: 11:16 SOL short notice + fill update sent", "kind": "notice"},
-  {"time": "2026-10-08T14:08:00+05:30", "agent": "harish-pa", "text": "Mudrex watch — SOL short +0.37 USDT open, held", "kind": "info"}
+  {"time": "2026-10-08T14:30:00+05:30", "agent": "harish-pa", "text": "Events cards answered: Interested — AI Studio (apply by 23 Oct); Not interested — PM's address, Farmers Market, Saarang Finance", "kind": "events"}
  ]
 }
