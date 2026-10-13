@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T20:41:06+05:30",
+ "generated_at": "2026-10-13T21:42:59+05:30",
  "timezone": "Asia/Calcutta (IST)",
  "desks": [
   {"id": "hub", "name": "Harish PA Hub", "color": "#7c5cff"},
@@ -16,22 +16,22 @@
    "desk": "hub",
    "role": "Harish's personal assistant hub: routines, briefs, Mudrex crypto desk, WhatsApp notices to Abbu, journal, events cards.",
    "status": "working",
-   "last_action": "Mudrex watch 8:08 PM slot (ran ~8:22 PM): book flat 33.02 USDT, no positions/orders; agents map refresh (8:18 PM slot)",
-   "last_run": "2026-10-13T20:41:06+05:30",
-   "next_run": "2026-10-13T20:38:00+05:30",
+   "last_action": "Mudrex watch run (scan 9:03 PM, done 9:25 PM): all WAIT/VETO, 0 A+, 2 soft watches, no trade; agents map refresh (9:18 PM slot)",
+   "last_run": "2026-10-13T21:42:59+05:30",
+   "next_run": "2026-10-13T22:00:00+05:30",
    "routines": [
     {"name": "Morning AI news top 10", "schedule": "Daily 6:00 AM", "last_run": "2026-10-13T06:06:46+05:30", "last_result": "succeeded", "next_run": "2026-10-14T06:00:00+05:30"},
     {"name": "Morning investment desk dump", "schedule": "Daily 6:00 AM", "last_run": "2026-10-13T06:04:14+05:30", "last_result": "succeeded", "next_run": "2026-10-14T06:00:00+05:30"},
     {"name": "Market open invest decision", "schedule": "Weekdays 9:45 AM", "last_run": "2026-10-13T09:53:44+05:30", "last_result": "succeeded", "next_run": "2026-10-14T09:45:00+05:30"},
     {"name": "Morning placement digest", "schedule": "Daily 7:11 AM", "last_run": "2026-10-13T07:15:34+05:30", "last_result": "succeeded", "next_run": "2026-10-14T07:11:00+05:30"},
     {"name": "Morning events interest cards", "schedule": "Daily 7:18 AM", "last_run": "2026-10-13T07:24:46+05:30", "last_result": "succeeded", "next_run": "2026-10-14T07:18:00+05:30"},
-    {"name": "Mudrex multi-strategy watch", "schedule": "Every :08 and :38, 8 AM–11:38 PM", "last_run": "2026-10-13T20:22:28+05:30", "last_result": "succeeded — flat book 33.02 USDT, no positions/orders", "next_run": "2026-10-13T20:38:00+05:30"},
+    {"name": "Mudrex multi-strategy watch", "schedule": "Every :08 and :38, 8 AM–11:38 PM", "last_run": "2026-10-13T21:25:13+05:30", "last_result": "succeeded — all WAIT/VETO, 0 A+, 2 soft watches, no trade", "next_run": "2026-10-13T22:08:00+05:30"},
     {"name": "Mudrex daily desk report", "schedule": "Daily 7:53 AM", "last_run": "2026-10-13T07:55:20+05:30", "last_result": "succeeded", "next_run": "2026-10-14T07:53:00+05:30"},
     {"name": "Mudrex monthly report", "schedule": "1st of month 7:49 AM", "last_run": null, "last_result": "never run", "next_run": "2026-11-01T07:49:00+05:30"},
     {"name": "Sekar supply-chain talk T-30 reminder", "schedule": "Fri 9 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Sekar supply-chain talk T-10 reminder", "schedule": "Fri 9 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Daily journal reminder", "schedule": "Daily 10:00 PM", "last_run": "2026-10-12T22:19:08+05:30", "last_result": "succeeded", "next_run": "2026-10-13T22:00:00+05:30"},
-    {"name": "Agents map status refresh", "schedule": "Hourly 6:18 AM–11:18 PM", "last_run": "2026-10-13T20:41:06+05:30", "last_result": "running", "next_run": "2026-10-13T21:18:00+05:30"},
+    {"name": "Agents map status refresh", "schedule": "Hourly 6:18 AM–11:18 PM", "last_run": "2026-10-13T21:42:59+05:30", "last_result": "running", "next_run": "2026-10-13T22:18:00+05:30"},
     {"name": "Honda R&D test T-30 reminder", "schedule": "Sat 17 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "pending", "next_run": "2026-10-17T14:30:00+05:30"},
     {"name": "Honda R&D test T-10 reminder", "schedule": "Sat 17 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "pending", "next_run": "2026-10-17T14:50:00+05:30"},
     {"name": "UCL PhD opportunity watch", "schedule": "Daily 8:04 AM", "last_run": "2026-10-13T08:06:33+05:30", "last_result": "succeeded", "next_run": "2026-10-14T08:04:00+05:30"},
@@ -78,6 +78,8 @@
   {"id": "lit-scout", "name": "Lit Scout", "desk": "studio", "role": "Literature/paper scouting", "status": "idle", "last_action": null, "last_run": null, "next_run": null, "routines": []}
  ],
  "feed": [
+  {"time": "2026-10-13T21:42:59+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (9:18 PM slot, fired ~21:41)", "kind": "info"},
+  {"time": "2026-10-13T21:03:00+05:30", "agent": "harish-pa", "text": "Mudrex watch scan 9:03 PM (run finished 9:25 PM) — all WAIT/VETO, 0 A+, 2 soft watches, no place/amend/cancel", "kind": "info"},
   {"time": "2026-10-13T20:41:06+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (8:18 PM slot, fired ~20:41)", "kind": "info"},
   {"time": "2026-10-13T20:22:28+05:30", "agent": "harish-pa", "text": "Mudrex watch 8:08 PM slot (~8:22 PM) — book flat 33.02 USDT, no positions/orders (no watch.md; 7:38 PM slot skipped, no evidence)", "kind": "info"},
   {"time": "2026-10-13T19:36:37+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (7:18 PM slot, fired ~7:35 PM)", "kind": "info"},
@@ -275,8 +277,6 @@
   {"time": "2026-10-09T19:48:00+05:30", "agent": "harish-pa", "text": "Agents map status refresh (7:18 PM slot)", "kind": "info"},
   {"time": "2026-10-09T19:40:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 7:08 PM slot completed", "kind": "info"},
   {"time": "2026-10-09T19:00:00+05:30", "agent": "harish-pa", "text": "Read live Zerodha Kite portfolio snapshot (24 holdings, P&L +3.18%)", "kind": "info"},
-  {"time": "2026-10-09T18:56:00+05:30", "agent": "harish-pa", "text": "Fetched KalavAI AI Engineer JD and application form for Harish's decision", "kind": "info"},
-  {"time": "2026-10-09T18:38:00+05:30", "agent": "harish-pa", "text": "Agents map status refresh (6:18 PM slot)", "kind": "info"},
-  {"time": "2026-10-09T18:30:00+05:30", "agent": "harish-pa", "text": "Mudrex S1: DOGE limit short 270 @0.08490 placed (3x, SL 0.08580, TP 0.08320); S2 wait, S3 veto", "kind": "trade"}
+  {"time": "2026-10-09T18:56:00+05:30", "agent": "harish-pa", "text": "Fetched KalavAI AI Engineer JD and application form for Harish's decision", "kind": "info"}
  ]
 }
