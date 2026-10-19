@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T23:28:52+05:30",
+ "generated_at": "2026-10-19T06:22:42+05:30",
  "timezone": "Asia/Calcutta (IST)",
  "desks": [
   {"id": "hub", "name": "Harish PA Hub", "color": "#7c5cff"},
@@ -16,22 +16,22 @@
    "desk": "hub",
    "role": "Harish's personal assistant hub: routines, briefs, Mudrex crypto desk, WhatsApp notices to Abbu, journal, events cards.",
    "status": "working",
-   "last_action": "Mudrex watch 11:08 PM: book flat 32.87 USDT; the 10:30 PM basket bounce was rejected at the 15m EMA, but it was a late, partly chased B-grade entry with no overnight management, so no trade; S2 WAIT, S3 VETO; agents map refresh (11:18 PM slot)",
-   "last_run": "2026-10-18T23:27:00+05:30",
-   "next_run": "2026-10-18T23:38:00+05:30",
+   "last_action": "Morning AI brief (6:03 AM, DeepSeek V4.1-Flash, OpenCode breach, AI code-review bottleneck) and investment dump (6:09 AM, sell IOC/GAIL, trim Mindspace on expiry day before Dussehra) delivered; agents map refresh (6:18 AM slot)",
+   "last_run": "2026-10-19T06:22:00+05:30",
+   "next_run": "2026-10-19T07:11:00+05:30",
    "routines": [
-    {"name": "Morning AI news top 10", "schedule": "Daily 6:00 AM", "last_run": "2026-10-18T06:07:56+05:30", "last_result": "succeeded — ~4.6 min voice brief: banks block third-party AI agents, G7 AI cyberattack drills, Anthropic Q3 revenue $16.8B, chip selloff, China AI export controls", "next_run": "2026-10-19T06:00:00+05:30"},
-    {"name": "Morning investment desk dump", "schedule": "Daily 6:00 AM", "last_run": "2026-10-18T06:06:52+05:30", "last_result": "succeeded — weekend Hormuz tanker fires, Brent $109.86; ICICI beat, HDFC record-low NIM; NSE shut Sun and Tue (Dussehra), no orders; Mon calls: sell IOC/GAIL, trim Mindspace", "next_run": "2026-10-19T06:00:00+05:30"},
+    {"name": "Morning AI news top 10", "schedule": "Daily 6:00 AM", "last_run": "2026-10-19T06:03:25+05:30", "last_result": "succeeded — ~4.5 min voice brief: DeepSeek V4.1-Flash-1017, OpenAI on distillation, OpenCode API key breach, AI code-review bottleneck, Anthropic draft frontier AI bill, Morgan Stanley cuts AMD forecast", "next_run": "2026-10-20T06:00:00+05:30"},
+    {"name": "Morning investment desk dump", "schedule": "Daily 6:00 AM", "last_run": "2026-10-19T06:09:32+05:30", "last_result": "succeeded — Hormuz mine attacks continue, Brent ~$108.8; expiry day before Tue Dussehra holiday; calls: sell IOC/GAIL, trim Mindspace, half redeploy to CPSE ETF only if Nifty holds 23,000; Kite not connected, no orders", "next_run": "2026-10-20T06:00:00+05:30"},
     {"name": "Market open invest decision", "schedule": "Weekdays 9:45 AM", "last_run": "2026-10-16T09:45:14+05:30", "last_result": "succeeded", "next_run": "2026-10-19T09:45:00+05:30"},
     {"name": "Morning placement digest", "schedule": "Daily 7:11 AM", "last_run": "2026-10-18T07:18:45+05:30", "last_result": "succeeded — Flipkart resume deadline tonight 11:59 PM (details TBC), case mocks round 2 today, Infosys Consulting skipped (needs 21+ months exp), Predigle and Bukuly close Tue 20 Oct; nothing applied", "next_run": "2026-10-19T07:11:00+05:30"},
     {"name": "Morning events interest cards", "schedule": "Daily 7:18 AM", "last_run": "2026-10-18T07:23:58+05:30", "last_result": "succeeded — 5 events: Heartfulness meditation 9:30 AM, Jignyasa Gita talk 6 PM, CIFIL RBI workshop dry run Mon 19 Oct, Moonlight screening Thu 22 Oct, Rime TTS Inter IIT prep (apply by 20 Oct)", "next_run": "2026-10-19T07:18:00+05:30"},
-    {"name": "Mudrex multi-strategy watch", "schedule": "Hourly :08 and :38, 8:08 AM–11:38 PM", "last_run": "2026-10-18T23:13:57+05:30", "last_result": "succeeded — book flat ~32.87 USDT, no positions; 15m EMA rejection printed late, skipped (no unmanaged overnight hold); S2 WAIT, S3 VETO", "next_run": "2026-10-18T23:38:00+05:30"},
+    {"name": "Mudrex multi-strategy watch", "schedule": "Hourly :08 and :38, 8:08 AM–11:38 PM", "last_run": "2026-10-18T23:45:41+05:30", "last_result": "succeeded — book flat 32.87 USDT; tight late-Sunday range, S1/S2 WAIT, S3 VETO, no overnight entry", "next_run": "2026-10-19T08:08:00+05:30"},
     {"name": "Mudrex daily desk report", "schedule": "Daily 7:53 AM", "last_run": "2026-10-18T08:01:46+05:30", "last_result": "succeeded — Sat 17 Oct: one S2 NEAR long stopped out, net -0.3134 USDT (Rs -29.74), est tax 0 (loss day), closing book 33.1843 USDT flat; flagged SL/TP not attaching on limit fill", "next_run": "2026-10-19T07:53:00+05:30"},
     {"name": "Mudrex monthly report", "schedule": "1st of month 7:49 AM", "last_run": null, "last_result": "never run", "next_run": "2026-11-01T07:49:00+05:30"},
     {"name": "Sekar supply-chain talk T-30 reminder", "schedule": "Fri 9 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Sekar supply-chain talk T-10 reminder", "schedule": "Fri 9 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Daily journal reminder", "schedule": "Daily 10:00 PM", "last_run": "2026-10-18T22:08:00+05:30", "last_result": "succeeded", "next_run": "2026-10-19T22:00:00+05:30"},
-    {"name": "Agents map status refresh", "schedule": "Hourly :18, 6:18 AM–11:18 PM", "last_run": "2026-10-18T23:27:00+05:30", "last_result": "succeeded", "next_run": "2026-10-19T06:18:00+05:30"},
+    {"name": "Agents map status refresh", "schedule": "Hourly :18, 6:18 AM–11:18 PM", "last_run": "2026-10-19T06:22:00+05:30", "last_result": "succeeded", "next_run": "2026-10-19T07:18:00+05:30"},
     {"name": "Honda R&D test T-30 reminder", "schedule": "Sat 17 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Honda R&D test T-10 reminder", "schedule": "Sat 17 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "UCL PhD opportunity watch", "schedule": "Daily 8:04 AM", "last_run": "2026-10-18T08:07:00+05:30", "last_result": "succeeded", "next_run": "2026-10-19T08:04:00+05:30"},
@@ -80,6 +80,10 @@
   {"id": "lit-scout", "name": "Lit Scout", "desk": "studio", "role": "Literature/paper scouting", "status": "idle", "last_action": null, "last_run": null, "next_run": null, "routines": []}
  ],
  "feed": [
+  {"time": "2026-10-19T06:22:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (6:18 AM slot, fired ~6:22 AM)", "kind": "info"},
+  {"time": "2026-10-19T06:09:32+05:30", "agent": "harish-pa", "text": "Morning investment dump delivered (~4 min voice note): Brent ~$108.8 despite Hormuz mine attacks; expiry day before Tue Dussehra holiday; sell IOC/GAIL, trim Mindspace; Kite not connected, no orders placed", "kind": "info"},
+  {"time": "2026-10-19T06:03:25+05:30", "agent": "harish-pa", "text": "Morning AI brief delivered (~4.5 min voice note): DeepSeek V4.1-Flash-1017, OpenCode API key breach, AI code-review bottleneck, Anthropic draft frontier AI bill, Microsoft cancels Essex data centre", "kind": "info"},
+  {"time": "2026-10-18T23:45:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 11:38 PM (last run of day): book flat 32.87 USDT; basket stuck in a tight 15m range since ~9:45 PM, all timeframes bear; S1/S2 WAIT, S3 VETO; no overnight entry, no trade", "kind": "info"},
   {"time": "2026-10-18T23:27:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (11:18 PM slot, fired ~11:27 PM)", "kind": "info"},
   {"time": "2026-10-18T23:15:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 11:08 PM: book flat; the 10:45 PM bar rejected the 15m EMA across the basket, but the entry was half gone and would be an unmanaged overnight hold, so skipped; S2 WAIT, S3 VETO; no trade", "kind": "info"},
   {"time": "2026-10-18T22:44:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 10:38 PM: book flat 32.87 USDT; basket bouncing into the 15m EMA with 1h/4h still bearish; no closed rejection candle yet; S1/S2 WAIT, S3 VETO; no trade", "kind": "info"},
@@ -275,10 +279,6 @@
   {"time": "2026-10-15T16:45:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 4:38 slot: HOLD SOL short (~102.33, uPnL ~+0.23, SL 103.80); S2 WAIT, S3 VETO, no new trade", "kind": "info"},
   {"time": "2026-10-15T16:20:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (4:18 PM slot, fired ~16:18)", "kind": "info"},
   {"time": "2026-10-15T16:16:27+05:30", "agent": "harish-pa", "text": "Mudrex watch 4:08 slot: HOLD SOL short (~102.08, uPnL ~+0.28, SL 103.80); S2 WAIT, S3 VETO, no new trade", "kind": "info"},
-  {"time": "2026-10-15T15:24:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (3:18 PM slot, fired ~15:22)", "kind": "info"},
-  {"time": "2026-10-15T15:12:29+05:30", "agent": "harish-pa", "text": "Mudrex watch 3:08 slot: HOLD SOL short (~103.02, uPnL ~+0.10); NEAR breakdown watched, S2 WAIT, S3 VETO, no new trade", "kind": "info"},
-  {"time": "2026-10-15T14:50:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 2:38 slot: HOLD SOL short (~102.97, uPnL ~+0.11); S2 WAIT, S3 VETO, no new trade", "kind": "info"},
-  {"time": "2026-10-15T14:27:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (2:18 PM slot, fired ~14:26)", "kind": "info"},
-  {"time": "2026-10-15T14:16:08+05:30", "agent": "harish-pa", "text": "Mudrex watch 2:08 slot run completed (no watch.md)", "kind": "info"}
+  {"time": "2026-10-15T15:24:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (3:18 PM slot, fired ~15:22)", "kind": "info"}
  ]
 }
