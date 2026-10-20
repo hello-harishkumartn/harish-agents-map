@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T11:19:45+05:30",
+ "generated_at": "2026-10-20T12:25:27+05:30",
  "timezone": "Asia/Calcutta (IST)",
  "desks": [
   {"id": "hub", "name": "Harish PA Hub", "color": "#7c5cff"},
@@ -16,22 +16,22 @@
    "desk": "hub",
    "role": "Harish's personal assistant hub: routines, briefs, Mudrex crypto desk, WhatsApp notices to Abbu, journal, events cards.",
    "status": "working",
-   "last_action": "Mudrex watch 10:38 slot (10:40 AM: flat, BTC on 1h e21 82.0k, alts drifting in tight ranges, all WAIT); Mudrex 11:08 slot started 11:17; agents map refresh (11:18 AM slot)",
-   "last_run": "2026-10-20T11:19:00+05:30",
-   "next_run": "2026-10-20T11:38:00+05:30",
+   "last_action": "Mudrex watch 12:08 slot (12:12 PM: flat, BTC 1H closed 81.68k under 82.0k, alts flushed to new lows then bounced, NEAR short still no retest, all WAIT); agents map refresh (12:18 PM slot)",
+   "last_run": "2026-10-20T12:25:00+05:30",
+   "next_run": "2026-10-20T12:38:00+05:30",
    "routines": [
     {"name": "Morning AI news top 10", "schedule": "Daily 6:00 AM", "last_run": "2026-10-20T06:03:51+05:30", "last_result": "succeeded — brief on OpenAI ~$30B raise, Anthropic-Nscale talks, AdaniConneX-Google Vizag DCs and more; 627 words, ~4.4 min voice", "next_run": "2026-10-21T06:00:00+05:30"},
     {"name": "Morning investment desk dump", "schedule": "Daily 6:00 AM", "last_run": "2026-10-20T06:00:45+05:30", "last_result": "succeeded — Brent ~$109.6, Nifty 22,889 (-1.11%) Mon; Tue holiday; no call changed direction, CPSE ETF trigger reset to Nifty holding 22,800", "next_run": "2026-10-21T06:00:00+05:30"},
     {"name": "Market open invest decision", "schedule": "Weekdays 9:45 AM", "last_run": "2026-10-20T09:51:11+05:30", "last_result": "succeeded", "next_run": "2026-10-21T09:45:00+05:30"},
     {"name": "Morning placement digest", "schedule": "Daily 7:11 AM", "last_run": "2026-10-20T07:19:20+05:30", "last_result": "succeeded", "next_run": "2026-10-21T07:11:00+05:30"},
     {"name": "Morning events interest cards", "schedule": "Daily 7:18 AM", "last_run": "2026-10-20T07:23:01+05:30", "last_result": "succeeded", "next_run": "2026-10-21T07:18:00+05:30"},
-    {"name": "Mudrex multi-strategy watch", "schedule": "Hourly :08 and :38, 8:08 AM–11:38 PM", "last_run": "2026-10-20T11:17:20+05:30", "last_result": "running — 11:08 AM slot started 11:17; previous 10:38 slot succeeded: book flat 32.87 USDT, S1/S2 WAIT, S3 VETO, no trade", "next_run": "2026-10-20T11:38:00+05:30"},
+    {"name": "Mudrex multi-strategy watch", "schedule": "Hourly :08 and :38, 8:08 AM–11:38 PM", "last_run": "2026-10-20T12:11:55+05:30", "last_result": "succeeded — 12:08 PM slot: book flat 32.87 USDT, S1/S2 WAIT, S3 VETO, no trade", "next_run": "2026-10-20T12:38:00+05:30"},
     {"name": "Mudrex daily desk report", "schedule": "Daily 7:53 AM", "last_run": "2026-10-20T07:54:13+05:30", "last_result": "succeeded — 19 Oct: no trades, net 0 USDT; closing book 32.8688 USDT flat; week 17-19 Oct -0.6289 USDT", "next_run": "2026-10-21T07:53:00+05:30"},
     {"name": "Mudrex monthly report", "schedule": "1st of month 7:49 AM", "last_run": null, "last_result": "never run", "next_run": "2026-11-01T07:49:00+05:30"},
     {"name": "Sekar supply-chain talk T-30 reminder", "schedule": "Fri 9 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Sekar supply-chain talk T-10 reminder", "schedule": "Fri 9 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Daily journal reminder", "schedule": "Daily 10:00 PM", "last_run": "2026-10-19T22:07:41+05:30", "last_result": "succeeded", "next_run": "2026-10-20T22:00:00+05:30"},
-    {"name": "Agents map status refresh", "schedule": "Hourly :18, 6:18 AM–11:18 PM", "last_run": "2026-10-20T11:19:00+05:30", "last_result": "succeeded — pushed status.json (11:18 AM slot)", "next_run": "2026-10-20T12:18:00+05:30"},
+    {"name": "Agents map status refresh", "schedule": "Hourly :18, 6:18 AM–11:18 PM", "last_run": "2026-10-20T12:25:00+05:30", "last_result": "succeeded — pushed status.json (12:18 PM slot)", "next_run": "2026-10-20T13:18:00+05:30"},
     {"name": "Honda R&D test T-30 reminder", "schedule": "Sat 17 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Honda R&D test T-10 reminder", "schedule": "Sat 17 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "UCL PhD opportunity watch", "schedule": "Daily 8:04 AM", "last_run": "2026-10-20T08:04:15+05:30", "last_result": "succeeded", "next_run": "2026-10-21T08:04:00+05:30"},
@@ -80,7 +80,10 @@
   {"id": "lit-scout", "name": "Lit Scout", "desk": "studio", "role": "Literature/paper scouting", "status": "idle", "last_action": null, "last_run": null, "next_run": null, "routines": []}
  ],
  "feed": [
+  {"time": "2026-10-20T12:25:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (12:18 PM slot, fired ~12:24)", "kind": "info"},
+  {"time": "2026-10-20T12:12:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 12:08 slot: flat 32.87 USDT; BTC 1H closed 81.68k below 82.0k, 4H BEAR; alts flushed to new lows at 11:30 then bounced; NEAR short never retested e21; S1/S2 WAIT, S3 VETO, no trade (watch-1213)", "kind": "info"},
   {"time": "2026-10-20T11:19:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (11:18 AM slot, fired ~11:19)", "kind": "info"},
+  {"time": "2026-10-20T11:19:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 11:08 slot: flat 32.87 USDT; 11:00 bar swept alt lows and closed back up (lower-wick rejection), NEAR short not triggered, BTC 1H close pending; S1/S2 WAIT, S3 VETO, no trade (watch-1118)", "kind": "info"},
   {"time": "2026-10-20T11:17:20+05:30", "agent": "harish-pa", "text": "Mudrex watch 11:08 slot started 11:17 (in progress)", "kind": "info"},
   {"time": "2026-10-20T10:40:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 10:38 slot: flat 32.87 USDT; BTC ~81.98k sitting on 1h e21 82.0k, alts drifting lower in sub-0.5% 15m ranges; NEAR short trigger not met; S1/S2 WAIT, S3 VETO, no trade (watch-1040)", "kind": "info"},
   {"time": "2026-10-20T10:22:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (10:18 AM slot, fired ~10:21)", "kind": "info"},
@@ -276,9 +279,6 @@
   {"time": "2026-10-16T23:45:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 11:38 PM slot (last of day) — flat 33.50; 23:15 V-bounce rejected under 15m e21 but entry mid-range, not A+ for an unmanaged overnight hold; S1/S2 WAIT, S3 VETO, no trade (watch-2345)", "kind": "info"},
   {"time": "2026-10-16T23:28:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (11:18 PM slot, fired ~23:28)", "kind": "info"},
   {"time": "2026-10-16T23:11:15+05:30", "agent": "harish-pa", "text": "Mudrex watch 11:08 PM slot — flat 33.50; V-bounce off session lows into 15m e21, no closed rejection; S1/S2 WAIT, S3 VETO; no trade (watch-2311)", "kind": "info"},
-  {"time": "2026-10-16T22:43:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 10:38 PM slot — CANCELLED unfilled XRP S2 short limit @1.3260 (price slid to ~1.300, order stale); 7.33 USDT margin released, zero fees; book flat 33.50 (watch-2243)", "kind": "trade"},
-  {"time": "2026-10-16T22:19:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (10:18 PM slot, fired ~22:19)", "kind": "info"},
-  {"time": "2026-10-16T22:11:06+05:30", "agent": "harish-pa", "text": "Mudrex watch 10:08 PM slot — HOLD resting XRP S2 short limit @1.3260 (unfilled, shallow bounce to ~1.312); S1 WAIT, S3 VETO; no place/amend/cancel (watch-2211)", "kind": "info"},
-  {"time": "2026-10-16T22:05:25+05:30", "agent": "harish-pa", "text": "Daily journal reminder ran (10 PM slot)", "kind": "info"}
+  {"time": "2026-10-16T22:43:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 10:38 PM slot — CANCELLED unfilled XRP S2 short limit @1.3260 (price slid to ~1.300, order stale); 7.33 USDT margin released, zero fees; book flat 33.50 (watch-2243)", "kind": "trade"}
  ]
 }
