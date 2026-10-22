@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T20:19:31+05:30",
+ "generated_at": "2026-10-22T21:19:38+05:30",
  "timezone": "Asia/Calcutta (IST)",
  "desks": [
   {"id": "hub", "name": "Harish PA Hub", "color": "#7c5cff"},
@@ -16,22 +16,22 @@
    "desk": "hub",
    "role": "Harish's personal assistant hub: routines, briefs, Mudrex crypto desk, WhatsApp notices to Abbu, journal, events cards.",
    "status": "working",
-   "last_action": "Mudrex watch 8:08 PM slot (~8:17 PM): book flat 32.87 USDT, alts pinned at box lows, all WAIT, no trade",
-   "last_run": "2026-10-22T20:17:00+05:30",
-   "next_run": "2026-10-22T20:38:00+05:30",
+   "last_action": "Mudrex watch 9:08 PM slot ran (~9:09 PM); 8:38 PM slot: flat 32.87 USDT, alts flushed to 12h lows, all WAIT, no trade",
+   "last_run": "2026-10-22T21:08:52+05:30",
+   "next_run": "2026-10-22T21:38:00+05:30",
    "routines": [
     {"name": "Morning AI news top 10", "schedule": "Daily 6:00 AM", "last_run": "2026-10-22T06:03:03+05:30", "last_result": "succeeded", "next_run": "2026-10-23T06:00:00+05:30"},
     {"name": "Morning investment desk dump", "schedule": "Daily 6:00 AM", "last_run": "2026-10-22T06:06:26+05:30", "last_result": "succeeded", "next_run": "2026-10-23T06:00:00+05:30"},
     {"name": "Market open invest decision", "schedule": "Weekdays 9:45 AM", "last_run": "2026-10-22T09:47:07+05:30", "last_result": "succeeded", "next_run": "2026-10-23T09:45:00+05:30"},
     {"name": "Morning placement digest", "schedule": "Daily 7:11 AM", "last_run": "2026-10-22T07:17:13+05:30", "last_result": "succeeded", "next_run": "2026-10-23T07:11:00+05:30"},
     {"name": "Morning events interest cards", "schedule": "Daily 7:18 AM", "last_run": "2026-10-22T07:27:20+05:30", "last_result": "succeeded", "next_run": "2026-10-23T07:18:00+05:30"},
-    {"name": "Mudrex multi-strategy watch", "schedule": "Every :08 and :38, 8 AM–11:38 PM", "last_run": "2026-10-22T20:16:14+05:30", "last_result": "succeeded", "next_run": "2026-10-22T20:38:00+05:30"},
+    {"name": "Mudrex multi-strategy watch", "schedule": "Every :08 and :38, 8 AM–11:38 PM", "last_run": "2026-10-22T21:08:52+05:30", "last_result": "succeeded", "next_run": "2026-10-22T21:38:00+05:30"},
     {"name": "Mudrex daily desk report", "schedule": "Daily 7:53 AM", "last_run": "2026-10-22T07:55:45+05:30", "last_result": "succeeded", "next_run": "2026-10-23T07:53:00+05:30"},
     {"name": "Mudrex monthly report", "schedule": "1st of month 7:49 AM", "last_run": null, "last_result": "never run", "next_run": "2026-11-01T07:49:00+05:30"},
     {"name": "Sekar supply-chain talk T-30 reminder", "schedule": "Fri 9 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Sekar supply-chain talk T-10 reminder", "schedule": "Fri 9 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Daily journal reminder", "schedule": "Daily 10:00 PM", "last_run": "2026-10-21T22:05:32+05:30", "last_result": "succeeded", "next_run": "2026-10-22T22:00:00+05:30"},
-    {"name": "Agents map status refresh", "schedule": "Hourly :18, 6:18 AM–11:18 PM", "last_run": "2026-10-22T19:19:15+05:30", "last_result": "succeeded", "next_run": "2026-10-22T21:18:00+05:30"},
+    {"name": "Agents map status refresh", "schedule": "Hourly :18, 6:18 AM–11:18 PM", "last_run": "2026-10-22T20:18:55+05:30", "last_result": "succeeded", "next_run": "2026-10-22T22:18:00+05:30"},
     {"name": "Honda R&D test T-30 reminder", "schedule": "Sat 17 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Honda R&D test T-10 reminder", "schedule": "Sat 17 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "UCL PhD opportunity watch", "schedule": "Daily 8:04 AM", "last_run": "2026-10-22T08:13:38+05:30", "last_result": "succeeded", "next_run": "2026-10-23T08:04:00+05:30"},
@@ -86,6 +86,9 @@
   {"id": "lit-scout", "name": "Lit Scout", "desk": "studio", "role": "Literature/paper scouting", "status": "idle", "last_action": null, "last_run": null, "next_run": null, "routines": []}
  ],
  "feed": [
+  {"time": "2026-10-22T21:20:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (9:18 PM slot)", "kind": "info"},
+  {"time": "2026-10-22T21:09:00+05:30", "agent": "harish-pa", "text": "Mudrex watch (9:08 PM slot) ran and completed", "kind": "info"},
+  {"time": "2026-10-22T20:48:00+05:30", "agent": "harish-pa", "text": "Mudrex watch (8:38 PM slot): flat 32.87 USDT, 8:30 PM bar flushed alts to new 12h lows, shorting would chase, all WAIT, no trade", "kind": "info"},
   {"time": "2026-10-22T20:20:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (8:18 PM slot)", "kind": "info"},
   {"time": "2026-10-22T20:17:00+05:30", "agent": "harish-pa", "text": "Mudrex watch (8:08 PM slot): flat 32.87 USDT, HBAR wicked under 5d low but closed back inside, all WAIT, no trade", "kind": "info"},
   {"time": "2026-10-22T20:04:00+05:30", "agent": "harish-pa", "text": "UBEL follow-up email to Prof. Medda drafted for Harish's review (not sent)", "kind": "info"},
@@ -282,9 +285,6 @@
   {"time": "2026-10-19T09:47:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 9:38 slot: flat 32.87 USDT; basket bounce stalling under 15m e21, HBAR short considered but not A+; S1/S2 WAIT, S3 SKIP, no trade", "kind": "info"},
   {"time": "2026-10-19T09:27:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (9:18 AM slot)", "kind": "info"},
   {"time": "2026-10-19T09:11:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 9:08 slot: flat 32.87 USDT; 15m bounce under bear 4h e50, HBAR lagging; S1/S2 WAIT, S3 SKIP, no trade", "kind": "info"},
-  {"time": "2026-10-19T08:40:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 8:38 slot: flat 32.87 USDT; SOL wicked to 105.86 into 4h e50, no clean break or failure; S1/S2/S3 all WAIT, no trade", "kind": "info"},
-  {"time": "2026-10-19T08:20:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (8:18 AM slot)", "kind": "info"},
-  {"time": "2026-10-19T08:16:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 8:08 slot: flat 32.87 USDT; overnight flush then BTC-led reversal; S1/S2/S3 all WAIT, no trade", "kind": "info"},
-  {"time": "2026-10-19T08:06:48+05:30", "agent": "harish-pa", "text": "UCL PhD opportunity watch ran (8:04 AM slot)", "kind": "info"}
+  {"time": "2026-10-19T08:40:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 8:38 slot: flat 32.87 USDT; SOL wicked to 105.86 into 4h e50, no clean break or failure; S1/S2/S3 all WAIT, no trade", "kind": "info"}
  ]
 }
