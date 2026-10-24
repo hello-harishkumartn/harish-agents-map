@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T08:28:13+05:30",
+ "generated_at": "2026-10-24T09:19:33+05:30",
  "timezone": "Asia/Calcutta (IST)",
  "desks": [
   {"id": "hub", "name": "Harish PA Hub", "color": "#7c5cff"},
@@ -16,22 +16,22 @@
    "desk": "hub",
    "role": "Harish's personal assistant hub: routines, briefs, Mudrex crypto desk, WhatsApp notices to Abbu, journal, events cards.",
    "status": "working",
-   "last_action": "Mudrex watch 8:08 slot: flat 33.38 USDT, WAIT, no trade",
-   "last_run": "2026-10-24T08:14:10+05:30",
-   "next_run": "2026-10-24T08:30:00+05:30",
+   "last_action": "Mudrex watch 9:08 slot: flat 33.38 USDT, WAIT, no trade",
+   "last_run": "2026-10-24T09:17:00+05:30",
+   "next_run": "2026-10-24T09:38:00+05:30",
    "routines": [
     {"name": "Morning AI news top 10", "schedule": "Daily 6:00 AM", "last_run": "2026-10-24T06:08:07+05:30", "last_result": "succeeded", "next_run": "2026-10-25T06:00:00+05:30"},
     {"name": "Morning investment desk dump", "schedule": "Daily 6:00 AM", "last_run": "2026-10-24T06:09:30+05:30", "last_result": "succeeded", "next_run": "2026-10-25T06:00:00+05:30"},
     {"name": "Market open invest decision", "schedule": "Weekdays 9:45 AM", "last_run": "2026-10-23T09:49:43+05:30", "last_result": "succeeded", "next_run": "2026-10-26T09:45:00+05:30"},
     {"name": "Morning placement digest", "schedule": "Daily 7:11 AM", "last_run": "2026-10-24T07:17:33+05:30", "last_result": "succeeded", "next_run": "2026-10-25T07:11:00+05:30"},
     {"name": "Morning events interest cards", "schedule": "Daily 7:18 AM", "last_run": "2026-10-24T07:25:07+05:30", "last_result": "succeeded", "next_run": "2026-10-25T07:18:00+05:30"},
-    {"name": "Mudrex multi-strategy watch", "schedule": "Every :08 and :38, 8 AM–11:38 PM", "last_run": "2026-10-24T08:14:10+05:30", "last_result": "succeeded", "next_run": "2026-10-24T08:38:00+05:30"},
+    {"name": "Mudrex multi-strategy watch", "schedule": "Every :08 and :38, 8 AM–11:38 PM", "last_run": "2026-10-24T09:16:29+05:30", "last_result": "succeeded", "next_run": "2026-10-24T09:38:00+05:30"},
     {"name": "Mudrex daily desk report", "schedule": "Daily 7:53 AM", "last_run": "2026-10-24T07:53:33+05:30", "last_result": "succeeded", "next_run": "2026-10-25T07:53:00+05:30"},
     {"name": "Mudrex monthly report", "schedule": "1st of month 7:49 AM", "last_run": null, "last_result": "never run", "next_run": "2026-11-01T07:49:00+05:30"},
     {"name": "Sekar supply-chain talk T-30 reminder", "schedule": "Fri 9 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Sekar supply-chain talk T-10 reminder", "schedule": "Fri 9 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Daily journal reminder", "schedule": "Daily 10:00 PM", "last_run": "2026-10-23T22:09:34+05:30", "last_result": "succeeded", "next_run": "2026-10-24T22:00:00+05:30"},
-    {"name": "Agents map status refresh", "schedule": "Hourly :18, 6:18 AM–11:18 PM", "last_run": "2026-10-24T08:27:40+05:30", "last_result": "running", "next_run": "2026-10-24T09:18:00+05:30"},
+    {"name": "Agents map status refresh", "schedule": "Hourly :18, 6:18 AM–11:18 PM", "last_run": "2026-10-24T09:19:00+05:30", "last_result": "running", "next_run": "2026-10-24T10:18:00+05:30"},
     {"name": "Honda R&D test T-30 reminder", "schedule": "Sat 17 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Honda R&D test T-10 reminder", "schedule": "Sat 17 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "UCL PhD opportunity watch", "schedule": "Daily 8:04 AM", "last_run": "2026-10-24T08:11:01+05:30", "last_result": "succeeded", "next_run": "2026-10-25T08:04:00+05:30"},
@@ -57,11 +57,12 @@
     {"name": "ICRC Nasdaq lecture T-10", "schedule": "Once 15 Oct 1:40 PM", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "DoMS HoD session T-30", "schedule": "Once Oct 21 4:30 PM", "last_run": null, "last_result": "one-off; no longer in the routine list", "next_run": null},
     {"name": "DoMS HoD session T-10", "schedule": "Once Oct 21 4:50 PM", "last_run": null, "last_result": "one-off; no longer in the routine list", "next_run": null},
-    {"name": "IITM placement portal daily check", "schedule": "Daily ~9:00 AM", "last_run": "2026-10-23T09:08:54+05:30", "last_result": "succeeded", "next_run": "2026-10-24T09:00:00+05:30"},
+    {"name": "IITM placement portal daily check", "schedule": "Daily ~9:00 AM", "last_run": "2026-10-24T09:08:21+05:30", "last_result": "succeeded", "next_run": "2026-10-25T09:00:00+05:30"},
     {"name": "Commotion MLE registration nudge", "schedule": "Once Oct 25 8:00 PM", "last_run": null, "last_result": "never run", "next_run": "2026-10-25T20:00:00+05:30"},
     {"name": "Appian SE registration nudge", "schedule": "Once Oct 27 8:00 PM", "last_run": null, "last_result": "never run", "next_run": "2026-10-27T20:00:00+05:30"},
-    {"name": "UCL PhD daily to-do", "schedule": "Daily ~8:30 AM", "last_run": "2026-10-23T08:35:33+05:30", "last_result": "succeeded", "next_run": "2026-10-24T08:30:00+05:30"},
-    {"name": "Google PM session reminder", "schedule": "Once Oct 23, 5:15 PM", "last_run": "2026-10-23T17:21:05+05:30", "last_result": "succeeded", "next_run": "2026-10-23T17:15:00+05:30"}
+    {"name": "UCL PhD daily to-do", "schedule": "Daily ~8:30 AM", "last_run": "2026-10-24T08:35:13+05:30", "last_result": "succeeded", "next_run": "2026-10-25T08:30:00+05:30"},
+    {"name": "Google PM session reminder", "schedule": "Once Oct 23, 5:15 PM", "last_run": "2026-10-23T17:21:05+05:30", "last_result": "succeeded", "next_run": "2026-10-23T17:15:00+05:30"},
+    {"name": "Celonis application reminder", "schedule": "Once Oct 24, 10:00 AM", "last_run": null, "last_result": "never run", "next_run": "2026-10-24T10:00:00+05:30"}
    ]
   },
   {"id": "crypto-chart-watch", "name": "Crypto Chart Watch", "desk": "crypto", "role": "15m/1h/4h scans for S1 pullback, S2 breakout, S3 failed-break fade setups (max 4x, SL on every trade).", "status": "idle", "last_action": null, "last_run": null, "next_run": null, "routines": []},
@@ -87,6 +88,10 @@
   {"id": "lit-scout", "name": "Lit Scout", "desk": "studio", "role": "Literature/paper scouting", "status": "idle", "last_action": null, "last_run": null, "next_run": null, "routines": []}
  ],
  "feed": [
+  {"time": "2026-10-24T09:17:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 9:08 slot: flat 33.38 USDT; BTC 80.92k hugging 15m e21; dead-flat Saturday tape, NEAR short not A+ on R:R; S1/S2 WAIT, S3 VETO, no trade", "kind": "info"},
+  {"time": "2026-10-24T09:08:21+05:30", "agent": "harish-pa", "text": "IITM placement portal daily check (9:00 AM slot) ran; routine succeeded", "kind": "info"},
+  {"time": "2026-10-24T08:43:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 8:38 slot: flat 33.38 USDT; BTC 80.94k all-TF bear; alts in slow relief bounce under 1h/4h bear; no closed rejection, WAIT, no trade", "kind": "info"},
+  {"time": "2026-10-24T08:35:13+05:30", "agent": "harish-pa", "text": "UCL PhD daily to-do (8:30 AM slot) ran; routine succeeded", "kind": "info"},
   {"time": "2026-10-24T08:27:40+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (8:18 AM slot)", "kind": "info"},
   {"time": "2026-10-24T08:14:10+05:30", "agent": "harish-pa", "text": "Mudrex watch 8:08 slot: flat 33.38 USDT; BTC 80.90k all-TF bear after overnight flush; HBAR broke 0.0785 overnight, now retesting from below; S1/S2 WAIT, S3 VETO, no trade", "kind": "info"},
   {"time": "2026-10-24T08:11:01+05:30", "agent": "harish-pa", "text": "UCL PhD opportunity watch (8:04 AM slot) ran; routine succeeded", "kind": "info"},
@@ -282,10 +287,6 @@
   {"time": "2026-10-20T15:43:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 3:38 slot: flat 32.87 USDT; BTC 81.55k bear on all TFs, alts bouncing into 15m e21 with no closed reject yet; NEAR still making lows; S1/S2 WAIT, S3 VETO, no trade (watch-1543)", "kind": "info"},
   {"time": "2026-10-20T15:25:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (3:18 PM slot, fired ~15:24)", "kind": "info"},
   {"time": "2026-10-20T15:16:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 3:08 slot: flat 32.87 USDT; BTC 81.34k bear on all TFs; 15:00 closes only nicked the equal-low shelf (~0.05%), not a decisive break; S1/S2 WAIT, S3 VETO, no trade (watch-1516)", "kind": "info"},
-  {"time": "2026-10-20T14:46:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 2:38 slot: flat 32.87 USDT; BTC 81.38k bear on 15m/1H/4H; alts grinding into 14:15/14:30 equal lows, no e21 retest; S1/S2 WAIT, S3 VETO, no trade (watch-1446)", "kind": "info"},
-  {"time": "2026-10-20T14:29:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (2:18 PM slot, fired ~14:27)", "kind": "info"},
-  {"time": "2026-10-20T14:09:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 2:08 slot: flat 32.87 USDT; BTC 81.53k bear on 15m/1H/4H; alts basing above 13:30 flush lows, still under 15m e21; S1/S2 WAIT, S3 VETO, no trade (watch-1410)", "kind": "info"},
-  {"time": "2026-10-20T13:47:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 1:38 slot (fired late): cancelled unfilled S1 NEAR short limit 6 @ 4.805 after NEAR broke below 4.744 without filling (13:30 flush to 4.725); no fill, no fees; book flat 32.87; S2 WAIT, S3 VETO (watch-1347)", "kind": "trade"},
-  {"time": "2026-10-20T13:21:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (1:18 PM slot, fired ~13:20)", "kind": "info"}
+  {"time": "2026-10-20T14:46:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 2:38 slot: flat 32.87 USDT; BTC 81.38k bear on 15m/1H/4H; alts grinding into 14:15/14:30 equal lows, no e21 retest; S1/S2 WAIT, S3 VETO, no trade (watch-1446)", "kind": "info"}
  ]
 }
