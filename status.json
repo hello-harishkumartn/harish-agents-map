@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T07:27:10+05:30",
+ "generated_at": "2026-10-27T08:20:43+05:30",
  "timezone": "Asia/Calcutta (IST)",
  "desks": [
   {"id": "hub", "name": "Harish PA Hub", "color": "#7c5cff"},
@@ -16,25 +16,25 @@
    "desk": "hub",
    "role": "Harish's personal assistant hub: routines, briefs, Mudrex crypto desk, WhatsApp notices to Abbu, journal, events cards.",
    "status": "working",
-   "last_action": "Morning placement digest sent to Abbu (Appian SE closes today, new Monitor Deloitte SRT Analyst); events cards offered 3 new items; agents map refreshed (7:18 AM slot)",
-   "last_run": "2026-10-27T07:28:00+05:30",
-   "next_run": "2026-10-27T07:53:00+05:30",
+   "last_action": "Mudrex watch 8:08 slot (book flat, all strategies wait); UCL PhD watch surfaced UBEL DTP pathway reply; Mudrex 26 Oct desk report saved",
+   "last_run": "2026-10-27T08:20:00+05:30",
+   "next_run": "2026-10-27T08:30:00+05:30",
    "routines": [
     {"name": "Morning AI news top 10", "schedule": "Daily 6:00 AM", "last_run": "2026-10-27T06:06:37+05:30", "last_result": "succeeded — audio brief sent to Abbu", "next_run": "2026-10-28T06:00:00+05:30"},
     {"name": "Morning investment desk dump", "schedule": "Daily 6:00 AM", "last_run": "2026-10-27T06:09:53+05:30", "last_result": "succeeded — audio note sent to Abbu", "next_run": "2026-10-28T06:00:00+05:30"},
     {"name": "Market open invest decision", "schedule": "Weekdays 9:45 AM", "last_run": "2026-10-26T09:53:48+05:30", "last_result": "succeeded — wait till 11 AM; Nifty near 22,372 support; watch CPCL, OIL; Coal India after Q2", "next_run": "2026-10-27T09:45:00+05:30"},
     {"name": "Morning placement digest", "schedule": "Daily 7:11 AM", "last_run": "2026-10-27T07:17:00+05:30", "last_result": "succeeded — digest sent to Abbu on WhatsApp", "next_run": "2026-10-28T07:11:00+05:30"},
     {"name": "Morning events interest cards", "schedule": "Daily 7:18 AM", "last_run": "2026-10-27T07:23:12+05:30", "last_result": "succeeded — 3 new event items offered", "next_run": "2026-10-28T07:18:00+05:30"},
-    {"name": "Mudrex multi-strategy watch", "schedule": "Every :08 and :38, 8 AM–11:38 PM", "last_run": "2026-10-26T23:48:42+05:30", "last_result": "succeeded — flat, no overnight entry", "next_run": "2026-10-27T08:08:00+05:30"},
-    {"name": "Mudrex daily desk report", "schedule": "Daily 7:53 AM", "last_run": "2026-10-26T07:58:55+05:30", "last_result": "succeeded", "next_run": "2026-10-27T07:53:00+05:30"},
+    {"name": "Mudrex multi-strategy watch", "schedule": "Every :08 and :38, 8 AM–11:38 PM", "last_run": "2026-10-27T08:15:46+05:30", "last_result": "succeeded — book flat, S1/S2 wait, S3 veto", "next_run": "2026-10-27T08:38:00+05:30"},
+    {"name": "Mudrex daily desk report", "schedule": "Daily 7:53 AM", "last_run": "2026-10-27T07:57:47+05:30", "last_result": "succeeded — 26 Oct report: 2 S1 shorts, take-home -0.23 USDT", "next_run": "2026-10-28T07:53:00+05:30"},
     {"name": "Mudrex monthly report", "schedule": "1st of month 7:49 AM", "last_run": null, "last_result": "never run", "next_run": "2026-11-01T07:49:00+05:30"},
     {"name": "Sekar supply-chain talk T-30 reminder", "schedule": "Fri 9 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Sekar supply-chain talk T-10 reminder", "schedule": "Fri 9 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Daily journal reminder", "schedule": "Daily 10:00 PM", "last_run": "2026-10-26T22:02:56+05:30", "last_result": "succeeded", "next_run": "2026-10-27T22:00:00+05:30"},
-    {"name": "Agents map status refresh", "schedule": "Hourly :18, 6:18 AM–11:18 PM", "last_run": "2026-10-27T07:28:00+05:30", "last_result": "succeeded — pushed status.json (7:18 AM slot)", "next_run": "2026-10-27T08:18:00+05:30"},
+    {"name": "Agents map status refresh", "schedule": "Hourly :18, 6:18 AM–11:18 PM", "last_run": "2026-10-27T08:20:10+05:30", "last_result": "succeeded — pushed status.json (8:18 AM slot)", "next_run": "2026-10-27T09:18:00+05:30"},
     {"name": "Honda R&D test T-30 reminder", "schedule": "Sat 17 Oct 2:30 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Honda R&D test T-10 reminder", "schedule": "Sat 17 Oct 2:50 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
-    {"name": "UCL PhD opportunity watch", "schedule": "Daily 8:04 AM", "last_run": "2026-10-26T08:07:16+05:30", "last_result": "succeeded", "next_run": "2026-10-27T08:04:00+05:30"},
+    {"name": "UCL PhD opportunity watch", "schedule": "Daily 8:04 AM", "last_run": "2026-10-27T08:04:40+05:30", "last_result": "succeeded — UBEL DTP pathway reply surfaced", "next_run": "2026-10-28T08:04:00+05:30"},
     {"name": "KalavAI decision reminder", "schedule": "Sat 10 Oct 9:57 AM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "Monday portfolio sell reminder", "schedule": "Mon 12 Oct 9:33 AM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "KalavAI final reminder", "schedule": "Sat 10 Oct 5:03 PM (one-off)", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
@@ -57,7 +57,7 @@
     {"name": "ICRC Nasdaq lecture T-10", "schedule": "Once 15 Oct 1:40 PM", "last_run": null, "last_result": "no longer scheduled (one-off)", "next_run": null},
     {"name": "DoMS HoD session T-30", "schedule": "Once Oct 21 4:30 PM", "last_run": null, "last_result": "one-off; no longer in the routine list", "next_run": null},
     {"name": "DoMS HoD session T-10", "schedule": "Once Oct 21 4:50 PM", "last_run": null, "last_result": "one-off; no longer in the routine list", "next_run": null},
-    {"name": "IITM placement portal daily check", "schedule": "Daily ~9:00 AM", "last_run": "2026-10-26T09:04:08+05:30", "last_result": "succeeded — no new profiles; 178 rows", "next_run": "2026-10-27T09:00:00+05:30"},
+    {"name": "IITM placement portal daily check", "schedule": "Daily ~9:00 AM", "last_run": "2026-10-26T09:04:08+05:30", "last_result": "succeeded", "next_run": "2026-10-27T09:00:00+05:30"},
     {"name": "Commotion MLE registration nudge", "schedule": "Once Oct 25 8:00 PM", "last_run": "2026-10-25T20:06:34+05:30", "last_result": "failed", "next_run": null},
     {"name": "Appian SE registration nudge", "schedule": "Once Oct 27 8:00 PM", "last_run": null, "last_result": "never run", "next_run": "2026-10-27T20:00:00+05:30"},
     {"name": "UCL PhD daily to-do", "schedule": "Daily ~8:30 AM", "last_run": "2026-10-26T08:34:31+05:30", "last_result": "succeeded", "next_run": "2026-10-27T08:30:00+05:30"},
@@ -91,6 +91,10 @@
   {"id": "lit-scout", "name": "Lit Scout", "desk": "studio", "role": "Literature/paper scouting", "status": "idle", "last_action": null, "last_run": null, "next_run": null, "routines": []}
  ],
  "feed": [
+  {"time": "2026-10-27T08:22:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (8:18 AM slot)", "kind": "info"},
+  {"time": "2026-10-27T08:15:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 8:08 slot: book flat; trend bearish but no e21 retest, S1/S2 wait, S3 veto (watch-0815)", "kind": "info"},
+  {"time": "2026-10-27T08:04:00+05:30", "agent": "harish-pa", "text": "UCL PhD watch: UBEL DTP replied to the pathway query, advising to ask Prof. Medda which pathway to pick", "kind": "info"},
+  {"time": "2026-10-27T07:57:00+05:30", "agent": "harish-pa", "text": "Mudrex daily desk report for 26 Oct: NEAR short +0.09, SUI short -0.30, take-home -0.23 USDT (about -₹22)", "kind": "info"},
   {"time": "2026-10-27T07:28:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (7:18 AM slot)", "kind": "info"},
   {"time": "2026-10-27T07:23:00+05:30", "agent": "harish-pa", "text": "Morning events interest cards: 3 new Gmail items offered, incl. CDSL Reimagine Ideathon 2026", "kind": "info"},
   {"time": "2026-10-27T07:21:00+05:30", "agent": "harish-pa", "text": "Morning placement digest sent to Abbu: Appian SE closes 27 Oct EOD, new Monitor Deloitte SRT Analyst (resume 29 Oct), Anthropod FDE & Data intern, Citi PPT unscheduled", "kind": "info"},
@@ -286,10 +290,6 @@
   {"time": "2026-10-23T20:12:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 8:08 slot: flat, no orders; BTC V-recovered the 7:45 flush, alts at 15m e21 without closed rejection, all WAIT", "kind": "info"},
   {"time": "2026-10-23T19:50:00+05:30", "agent": "harish-pa", "text": "Mudrex: HBAR limit short @ 0.0804 filled 7:32 PM, TP 0.0787 hit 7:47 PM, +0.527 USDT; book 33.38 USDT, flat", "kind": "trade"},
   {"time": "2026-10-23T19:13:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 7:08 slot: HBAR limit still unfilled at 0.07968 (BTC-led bounce toward 1h e21), held with SL/TP attached; S2/S3 WAIT", "kind": "info"},
-  {"time": "2026-10-23T18:50:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 6:38 slot: HBAR limit @ 0.0804 still unfilled at 0.07957, held; evening bounce faded, XRP/LINK/NEAR back to all-TF bear; S2/S3 WAIT", "kind": "info"},
-  {"time": "2026-10-23T18:20:00+05:30", "agent": "harish-pa", "text": "Agents map status refreshed (6:18 PM slot)", "kind": "info"},
-  {"time": "2026-10-23T18:16:00+05:30", "agent": "harish-pa", "text": "Celonis Associate (AI) Solution Consultant application prep updated; not applied, placement office check first", "kind": "info"},
-  {"time": "2026-10-23T18:12:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 6:08 slot: HBAR limit still unfilled at 0.07965 (evening bounce toward entry), held with SL/TP attached; S2/S3 WAIT", "kind": "info"},
-  {"time": "2026-10-23T17:45:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 5:38 slot: HBAR limit @ 0.0804 still unfilled at 0.07937, held; NEAR bear but S1 slot taken; S2/S3 WAIT", "kind": "info"}
+  {"time": "2026-10-23T18:50:00+05:30", "agent": "harish-pa", "text": "Mudrex watch 6:38 slot: HBAR limit @ 0.0804 still unfilled at 0.07957, held; evening bounce faded, XRP/LINK/NEAR back to all-TF bear; S2/S3 WAIT", "kind": "info"}
  ]
 }
